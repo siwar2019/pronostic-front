@@ -1,0 +1,400 @@
+{
+  "tablink": {
+    "employee": {
+      "categories": "Catégories",
+      "categories-link": "",
+      "pronostics": "Pronostics",
+      "pronostics-link": "pronostics",
+      "ranking": "Classement",
+      "ranking-link": "ranking",
+      "draw": "Qualification",
+      "draw-link": "drawCategories" ,
+      "quiz" :"quizz",
+      "quiz-link":"quizz"
+
+    },
+    "admin": {
+      "dashboard": "Dashboard",
+      "dashboard-link": "",
+      "users": "Utilisateurs",
+      "users-link": "Users",
+      "equipes": "Equipes",
+      "equipes-link": "Equipes",
+      "categories": "Catégories",
+      "categories-link": "catégories",
+      "events": "Evénements",
+      "events-link": "Events",
+      "results": "Résultats",
+      "results-link": "Resultats",
+      "matchs": "Matchs",
+      "matchs-link": "Matchs",
+      "coeff": "Coéfficient",
+      "coeff-link": "coeff",
+      "draw": "Qualification",
+      "draw-link": "draw",
+      "commercial": "Commercial",
+      "commercial-link": "agent",
+      "quiz":"quizz",
+      "quizLink":"quizz"
+    },
+    "partner": {
+      "dashboard": "Dashboard",
+      "dashboard-link": "",
+      "employees": "Employés",
+      "employees-link": "Employees",
+      "events": "Evénements",
+      "events-link": "partner-events",
+      "ranking": "Classement",
+      "ranking-link": "ranking",
+      "groups": "Groupes",
+      "groups-link": "eventGroups",
+      "pay":"Solde",
+      "pay-link":"pay",
+      "jokers": "Jokers",
+      "jokers-link": "Jokers"
+
+    },
+    "commercial": {
+      "dashboard": "Dashboard",
+      "dashboard-link": "",
+      "Cash-out": "Cash-out",
+      "Cash-out-link": "Cash-out",
+      "partner": "Partner",
+      "partner-link": "Partner"
+    }
+  },
+  "emptyPage": {
+    "NoDataAvailable": "Aucune donnée disponible",
+    "NoDraw": "Qualification non disponible pour cet événement"
+  },
+  "partner": {
+    "Dashboard": {
+      "dashboard": "Tableau de bord",
+      "NumberEmployees": "Nombre d'employés",
+      "events": "Evénements",
+      "catégorie": "Categories",
+      "users": "Utilisateurs",
+      "number": "Nombres",
+      "points": "Points",
+      "correctScore": "Score correcte",
+      "correctDifference": "Différence & gagnant correcte",
+      "correctTeam": "Équipe Correcte",
+      "incorrect": "Incorrecte",
+      "employees": "Employés",
+      "search": "Chercher...",
+      "chooseEvent&Employee": "Choisissez un employé et un événement!",
+      "chooseEvent": "Choisissez un événement!",
+      "chooseEmployee": "Choisissez un employé!",
+      "earnedPointsTitle": "Points gagnés par jour",
+      "rankTitle": "Classement d'employé par jour",
+      "rank": "Classement",
+      "pointsDetails": "Détails des points par match",
+      "DiffernceTitle": "Différence par rapport le premier",
+      "difference": "Différence"
+
+
+    },
+    "Employees": {
+      "addEmployees": "Ajouter employé(s)",
+      "addOtherEmployees": "Ajouter autres employés",
+      "send": "Envoyer",
+      "email": "Email",
+      "valid": "Valide",
+      "yes": "Oui",
+      "no": "Non",
+      "deleteConfirmationMsg": " Êtes-vous sûr de vouloir supprimer",
+      "deleteConfirmation": "Confirmation de la suppression",
+      "rows": "Lignes",
+      "maxEmployeesReached": "Nombre maximum d'employés est atteint",
+      "deleteEmployeeConfirmationMsg": "Êtes-vous sûr de vouloir supprimer cet employé ?",
+      "deleteGroupeMatchsConfirmationMsg": "Êtes-vous sûr de vouloir supprimer ce groupe ?"
+
+    },
+    "Events": {
+      "eventsAvailable": "Votre liste d'événements disponibles",
+      "category": "Categorie",
+      "chooseEvent": "Choisissez cet événement!",
+      "settings": "Paramètres",
+      "noSettings": "Aucun paramètre disponible!",
+      "qualification": "Qualification disponible",
+      "finish": "Finir",
+      "validateAction": "Valider votre action!",
+      "archivedEvents": "Vous avez archivé ces événements :",
+      "newEvents": " Vos nouveaux événements :",
+      "validate": "Valider",
+      "noActions": "Aucune action détectée sur les événements!",
+      "activedEvents": "Vous avez activé ces événements :",
+      "validationMessage": "Êtes-vous sûr d'activer/désactiver la qualification de cet événement ?"
+    },
+    "Ranking": {
+      "chooseEvent": "Choisir une événement",
+      "rankUsers": "Rank des joueurs",
+      "points": "Points",
+      "difference": "Différence",
+      "pronosticsHistory": "Historique",
+      "details": "Détails",
+      "noPronosticsYet": "Aucun pronostics",
+      "coefficient": "Coefficient",
+      "pronosticDate": "Date du pronostic",
+      "MatchDate": " Date Match",
+      "selecteventCalcul": " Sélectionnez les événements à calculer      ",
+      "selecteventDisplay": "   Sélectionnez les événements à afficher",
+      "ascending": "Tri Croissant",
+      "descending": "Tri Décroissant",
+      "Initialize": "Initialiser",
+      "SelectSortingTeam": "Sélectionner une Équipe"
+    }
+  },
+  "admin": {
+    "Dashboard": {
+"NbPartner": "Nombre des Partner",
+"NbEvents":"Nombre des Evenements",
+"NbCategorie" :"Nombre des catégories"
+    },
+
+
+
+"Users": {
+      "socialReason": "Raison sociale",
+      "email": "Email",
+      "phone": "Téléphone",
+      "NumberEmployees": "Nombre des employés",
+      "satuts": "Statuts",
+      "events": "Evénements",
+      "details": "Détails",
+      "delete" :"supprimer"
+    },
+    "Categories": {
+      "createNewCategories": "Créer de nouvelles catégories",
+      "categoriesList": "Liste des catégories",
+      "description": "Description",
+      "categorieName": "Nom du categorie",
+      "icon": "Icône",
+      "save": "Sauvegarder",
+      "cancel": "Annuler",
+      "name": "Nom"
+    },
+    "Events": {
+      "NewEvent": "Nouvel évènement",
+      "createNewEvent": "Créer une nouvelle evénement",
+      "eventsList": "Liste des evénements",
+      "events": "Evénements",
+      "eventName": "Nom de l'événement",
+      "name": "Nom",
+      "details": "Détails",
+      "categories": "Catégories",
+      "qualification": "Afficher qualification",
+      "qualificationType": "Type de qualification",
+      "description": "Description",
+      "selectPicture": "Sélectionner une image",
+      "ErrorImage": "Image obligatoire",
+      "maxLengthDescription": "Max longueur 400 caractères",
+      "archive": "Archive",
+      "settings": "Paramètres",
+      "archivedEvents": "Êtes-vous sûr d'activer/désactiver cet événement ?",
+      "displayOrder": "Afficher Ordre"
+    },
+    "Results": {
+      "selectGroup": "Selectioner le Groupe",
+      "selectEvent": "Selectioner l'évenements ",
+      "selectMatch": "Selectioner le Match",
+      "groups": "Groupes",
+      "matchs": "Matchs",
+      "match": "Match",
+      "date": "Date",
+      "event": "Evénement",
+      "categorie": "Catégorie",
+      "coefficient": "Coefficient",
+      "results": "Résultat",
+      "send": "Envoyer",
+      "matchsResults": "Résultats des matchs"
+    },
+    "Matchs": {
+      "chooseCategory": "Choisir une categorie",
+      "chooseEvent": "Choisir une événement",
+      "UpdateDateMatch": "Modifier la date du match",
+      "createMatch": "Créer Un Match",
+      "addMatch": "Ajouter Un match"
+    },
+    "Equipes": {
+      "createNewEquipes": "Créer une nouvelle Équipe",
+      "equipeName": "  Nom de l'équipe ",
+      "Country": "Pays",
+      "search": "Recherche",
+      "NoItemSelected": "Aucun Element Trouvé",
+      "Id": "ÉquipeID",
+      "AllEquipes": "Toutes les Équipes",
+      "icon": "icône"
+    },
+    "commercial":{
+      "settings":"paramètres",
+      "cashoutPartner": "cashout ",
+      "addCommercial": "  add commercial",
+      "create": "créer",
+      "update":"mettre à jour",
+      "settingsUsers":"  paramètres Utilisateurs",
+      "save": "sauvegarder",
+      "firstName": "Nom",
+       "mtCachout" : "mantant cahout",
+       "phone": "téléphone",
+       "validate": "valider",
+       "txCommison": " taux de Commison"
+      
+    }
+  },
+  "employee": {
+    "Ranking": {
+      "rankUsers": "Rank des joueurs",
+      "points": "Points",
+      "difference": "Différence",
+      "pointsPronostics": "Points pronostiques",
+      "pointsQualification": "Points qualification",
+      "totalPoints": "Total des points"
+    },
+    "Pronostics": {
+      "points": "Points",
+      "result": "Résultat",
+      "notYet": "Pas encore",
+      "back": "Retour",
+      "useJoker": "Utiliser votre Joker",
+      "cancel": "D'accord",
+      "detailsSuperPronostic": "SUPER PRONOSTICS vous donne la possibilité de faire un pronostic 90min après le début du match.",
+      "detailsForgotSave": "FORGOT vous donne la possibilité de faire un pronostic 1h avant le début du match.",
+      "detailsDoubleScore": "DOUBLE SCORE donne la possibilité de dupliquer le score d'un pronostic double.",
+      "validOnce": "Cette option n'est valable qu'une seule fois par événement!",
+      "pronosticsWithSuper": "Pronostic avec joker Super",
+      "pronosticsWithForgotSave": "Pronostic avec joker Forgot",
+      "validateAction": "Valider votre action!",
+      "ValidationTextSuper": "Es-tu sûr d'utiliser cette option SUPER PRONOSTIC pour faire le pronostic de ce match ?",
+      "ValidationTextForgot": "Es-tu sûr d'utiliser cette option FORGOT pour faire le pronostic de ce match ?",
+      "quit": "Anuuler",
+      "availability": "disponible jusqu'au",
+      "noJoker": "Pas de Joker disponible",
+      "update": "Modifier",
+      "updateWithSuper": "Modifier avec Super Joker",
+      "useDoubleJoker": "Utiliser le Joker double Score",
+      "ValidationDoubleScore": "Es-tu sûr d'utiliser cette option DOUBLE SCORE pour faire le pronostic de ce match ?",
+      "doubleJokerUsed": "Vous avez utilisé le double score joker dans ce match.",
+      "unusedDoubleJokerText": "Es-tu sûr d'avoir inutilisé ton DOUBLE JOKER dans ce match ?",
+      "confirmAction": "Confirmer",
+      "ValidationTextDouble": "Es-tu sûr d'utiliser cette option DOUBLE SCORE pour faire le pronostic de ce match ?",
+      "isUsed": "est utilisé dans ce match.",
+      "validOnceTwo": "Ces options ne sont valable qu'une seule fois par événement!",
+      "ValidationTextForgotAndDouble": "Es-tu sûr d'utiliser cette option FORGOT & DOUBLE pour faire le pronostic de ce match ?",
+      "ValidationTextForgotAndSuper": "Es-tu sûr d'utiliser cette option DOUBLE & SUPER pour faire le pronostic de ce match ?"
+
+    },
+    "Qualification": {
+      "winningTeamFor": "MON ÉQUIPE GAGNANTE POUR LE",
+      "FifaWorldCup": "Coupe du Monde FIFA Qatar 2022",
+      "8Finals": "1/8 de Finale",
+      "quarterFinals": "Quarts de Finale",
+      "semiFinals": "Demi Finales",
+      "semiFinal1": "Demi Final 1",
+      "semiFinal2": "Demi Final 2",
+      "final": "Finale",
+      "champion": "Champion",
+      "send": "Envoyer",
+      "quarterFinal1": "Quart de Finale 1",
+      "quarterFinal2": "Quart de Finale 2",
+      "quarterFinal3": "Quart de Finale 3",
+      "quarterFinal4": "Quart de Finale 4"
+    },
+    "Matchs": {
+      "jokerAvailable": " est encore disponible !",
+      "jokerUsed": " est utilisé le "
+    }
+  },
+
+  "Profile": {
+    "profileInformation": "Information du profil",
+    "socialReason": "Raison sociale",
+    "email": "Email",
+    "phone": "Téléphone",
+    "changePassword": "Changer le mot de passe",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "send": "Envoyer",
+    "employees": "Employés",
+    "logout": "Se déconnecter",
+    "search": "Rechercher..."
+  },
+  "client": {
+    "Home": {
+      "home": "ACCUEIL",
+      "products": "PRODUITS",
+      "pronostics": "PRONOSTICS",
+      "fantasy": "FANTAISIE",
+      "rules": "RÈGLES",
+      "news": "ACTUALITÉS",
+      "demo": "DEMO",
+      "signUp": "S'INSCRIRE",
+      "signIn": "SE CONNECTER",
+      "formulas": "NOS FORMULES",
+      "chooseOffer": "CHOISISSEZ VOTRE OFFRE D'ABONNEMENT",
+      "month": "Mois",
+      "subscribe": "JE M'ABONNE",
+      "application": "L'APPLICATION",
+      "applicationLabel": "L’application Wind Pronostics disponible bientôt pour Android & iOS",
+      "applicationLabelDetails": "L'application Wind Pronostics donnera jusqu'à 10 pronostics par jour sur le foot, le tennis, le basket...",
+      "downloadOn": "Télécharger sur",
+      "download": "TÉLÉCHARGER",
+      "newsSectionLabel": " À DÉCOUVRIR AUSSI",
+      "about": "c'est l'union de plusieurs tipsters professionnels qui combinent leur expertise (foot, tennis, basket, volley, handball, esport,  baseball...) pour délivrer quotidiennement leur meilleurs  pronostics dans leur sport.",
+      "soon": "bientôt"
+    },
+    "login": {
+      "login": "CONNEXION",
+      "email": "Email",
+      "password": "Mot de passe",
+      "register": "s'inscrire",
+      "forgotPassword": "Mot de passe oublié ?",
+      "socialReason": "Raison sociale",
+      "phoneNumber": "Numéro de téléphone",
+      "confirmPassword": "Confirmer le mot de passe",
+      "numberOfEmployees": "Nombre des employés",
+      "REQUIRED_PASSWORD": "Mot de passe requis",
+      "REQUIRED_SOCIALREASON": "Raison social est obligatoire",
+      "REQUIRED_EMAIL": "E-mail est requis",
+      "ERROR_REGEX_EMAIL": "E-mail doit être valide",
+      "REQUIRED_PHONE": "Numéro de téléphone est obligatoire",
+      "ERROR_PHONE_VALIDATION": "Numéro de téléphone invalide!",
+      "ERROR_REGEX_PASSWORD": "Doit inclure au moins 1 lettre maj et min, 1 chiffre et caractère spécial",
+      "CONFIRM_PASSWORD": "Vous devez confirmer votre mot de passe",
+      "REGEX_CONFIRM_PASSWORD": "Le mot de passe et la confirmation ne correspondent pas",
+      "REQUIRED_EMPLOYEENUMBER": "Nombre des employes est obligatoire",
+      "REQUIRED_NAME": "  name est obligatoire",
+      "REQUIRED_COMISSION": " Taux de commision est requis",
+      "REQUIRED_CASHOUT": " Seuil de cash-out est requis"
+    },
+    "gameRules": {
+      "title": "Aide aux Wind pronostics : Notre Guide complet",
+      "subTitle": "Règle de jeu - Tout pour bien Pronostiquer!",
+      "label": "Retrouver dans notre guide tout ce que vous devez savoir pour bien pronostiquer sur les différentes épreuves sportives. Vous trouverez tout ce dont vous avez besoin pour gagner!",
+      "example": "Exemple",
+      "doublePoints": "Ne manquez pas cette opportunité et gagnez x coefficient points!!"
+    },
+    "popUpDraw": {
+      "A1": "sélectionner le premier du groupe A ",
+      "A2": "sélectionner le second du groupe A ",
+      "B1": "sélectionner le premier du groupe B ",
+      "B2": "sélectionner le second du groupe B ",
+      "C1": "sélectionner le premier du groupe C ",
+      "C2": "sélectionner le second du groupe C",
+      "D1": "sélectionner le premier du groupe D",
+      "D2": "sélectionner le second du groupe D",
+      "E1": "sélectionner le premier du groupe E",
+      "E2": "sélectionner le second du groupe E",
+      "F1": "sélectionner le premier du groupe F",
+      "F2": "sélectionner le second du groupe F",
+      "G1": "sélectionner le premier du groupe G",
+      "G2": "sélectionner le second du groupe G",
+      "H1": "sélectionner le premier du groupe H",
+      "H2": "sélectionner le second du groupe H"
+    }
+
+  },
+  "Quiz" : {
+    "create" :"Create Quizz"
+  }
+}

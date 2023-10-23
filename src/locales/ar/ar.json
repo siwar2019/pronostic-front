@@ -1,0 +1,368 @@
+
+
+{
+  "tablink": {
+    "employee": {
+      "categories": "فئات",
+      "categories-link": "",
+      "pronostics": "تنبؤات",
+      "pronostics-link": "pronostics",
+      "ranking": "تصنيف",
+      "ranking-link": "ranking",
+      "draw": "مؤهل العرض",
+      "draw-link": "drawCategories"
+    },
+    "admin": {
+      "dashboard": "لوحة القيادة",
+      "dashboard-link": "",
+      "users": "المستخدمين",
+      "users-link": "Users",
+      "categories": "فئات",
+      "categories-link": "catégories",
+      "equipes": "فرق",
+      "equipes-link": "equipes",
+      "events": "مسابقات",
+      "events-link": "Events",
+      "results": "نتائج",
+      "results-link": "Resultats",
+      "matchs": "مباريات",
+      "matchs-link": "Matchs",
+      "coeff": " درجة",
+      "coeff-link": "coeff",
+      "draw": "مؤهل العرض",
+      "draw-link": "draw",
+      "commercial": "وكيل",
+      "commercial-link": "agent"
+    },
+    "partner": {
+      "dashboard": "لوحة القيادة",
+      "dashboard-link": "",
+      "employees": "الموظفين",
+      "employees-link": "Employees",
+      "events": "مسابقات",
+      "events-link": "partner-events",
+      "ranking": "تصنيف",
+      "ranking-link": "ranking",
+      "groups": "مجموعات",
+      "groups-link": "eventGroups",
+      "jockers": "Jockers"
+    }
+  },
+  "emptyPage": {
+    "NoDataAvailable": "لا تتوافر بيانات",
+    "NoDraw": "التأهيل غير متاح لهذا الحدث    "
+  },
+  "partner": {
+    "Dashboard": {
+      "dashboard": "لوحة القيادة",
+      "NumberEmployees": "عدد الموظفين ",
+      "events": "مسابقات",
+      "users": "المستخدمون",
+      "number": "أعداد",
+      "points": "نقاط",
+      "correctScore": "نتيجة صحيحة",
+      "correctDifference": "الفرق والفائز الصحيح",
+      "correctTeam": "الفريق الصحيح",
+      "incorrect": "غير صحيح",
+      "employees": " الموظفين ",
+      "search": "بحث...      ",
+      "chooseEvent&Employee": "اختر موظفًا وحدثًا!",
+      "chooseEvent": "اختر حدثا!",
+      "chooseEmployee": "اختر موظف!",
+      "earnedPointsTitle": "النقاط المكتسبة في اليوم      ",
+      "rankTitle": "رتبة الموظف في اليوم      ",
+      "rank": "مرتبة",
+      "pointsDetails": "تفاصيل النقاط لكل لعبة      ",
+      "DiffernceTitle": "فرق",
+      "difference": "فرق"
+    },
+    "Employees": {
+      "addEmployees": "اضافة موظفين",
+      "addOtherEmployees": "أضف موظفين آخرين",
+      "send": "إرسال",
+      "email": "بريد إلكتروني      ",
+      "valid": "Valid",
+      "yes": "نعم",
+      "no": "لا",
+      "deleteConfirmationMsg": "هل أنت متأكد أنك تريد حذف      ",
+      "deleteConfirmation": "تأكيد الحذف      ",
+      "rows": "صفوف",
+      "maxEmployeesReached": "تم الوصول إلى الحد الأقصى لعدد الموظفين      ",
+      "deleteEmployeeConfirmationMsg": "هل أنت متأكد أنك تريد حذف هذا الموظف؟      ",
+      "deleteGroupeMatchsConfirmationMsg": "هل أنت متأكد أنك تريد حذف هذه المجموعة؟      "
+
+
+    },
+    "Events": {
+      "eventsAvailable": "قائمة الأحداث الخاصة بك المتاحة      ",
+      "category": "الفئة",
+      "chooseEvent": "اختر هذا الحدث!      ",
+      "settings": "إعدادات",
+      "noSettings": "لا توجد إعدادات متاحة!      ",
+      "qualification": "المؤهلات المتاحة      ",
+      "finish": "إنهاء",
+      "validateAction": "تحقق من صحة عملك!      ",
+      "archivedEvents": "لقد أرشفت هذه الأحداث      :",
+      "newEvents": "أحداثك الجديدة      :",
+      "cancel": "إلغاء",
+      "validate": "تحقق",
+      "noActions": "لم يتم الكشف عن أي إجراء في الأحداث!      ",
+      "activedEvents": "لقد قمت بتنشيط هذه الأحداث      :",
+      "validationMessage": "هل أنت متأكد من تنشيط / إلغاء تنشيط تأهيل هذا الحدث؟      "
+    },
+    "Ranking": {
+      "chooseEvent": "اختر حدثًا      ",
+      "rankUsers": "مرتبة اللاعبين      ",
+      "points": "نقاط",
+      "difference": "فرق",
+      "pronosticsHistory": "سجل",
+      "details": "تفاصيل",
+      "noPronosticsYet": "لا يوجد تنبؤات",
+      "coefficient": "درجة",
+      "pronosticDate": "تاريخ التنبؤ      ",
+      "MatchDate": "تاريخ اللعبة      ",
+      "selecteventCalcul": "حدد الأحداث المطلوب حسابها      ",
+      "selecteventDisplay": "حدد الأحداث المراد عرضها      "
+
+    }
+  },
+  "admin": {
+    "Dashboard": {
+      "NbPartner": "عدد الشركاء",
+      "NbEvents":"عدد الأحداث ",
+      "NbCategorie" :"عدد الفئات"
+          },
+    "Users": {
+      "socialReason": " اسم",
+      "email": "بريد إلكتروني",
+      "phone": "هاتف",
+      "NumberEmployees": "عدد الموظفين",
+      "satuts": "الحالة",
+      "events": "مسابقات",
+      "details": "تفاصيل",
+      "delete" :"حذف"
+    },
+    "Categories": {
+      "createNewCategories": "إنشاء فئات جديدة",
+      "categoriesList": "الفئات",
+      "description": "وصف",
+      "categorieName": "اسم الفئة",
+      "icon": "أيقونة",
+      "save": "حفظ",
+      "name": "اسم"
+    },
+    "Events": {
+      "NewEvent": "حدث جديد",
+      "createNewEvent": "إنشاء حدث جديد",
+      "eventsList": "قائمة الأحداث",
+      "events": "مسابقات",
+      "eventName": "اسم الحدث",
+      "name": "اسم",
+      "details": "تفاصيل",
+      "categories": "التصنيفات",
+      "save": "حفظ",
+      "qualification": "مؤهل العرض",
+      "qualificationType": "نوع التأهيل",
+      "description": "وصف",
+      "selectPicture": "حدد الصورة",
+      "ErrorImage": "الصورة مطلوبة",
+      "maxLengthDescription": "أقصى طول 400 حرف",
+      "archive":"حذف",
+      "settings":"إعدادات",
+      "archivedEvents":"هل أنت متأكد من تنشيط / إلغاء تنشيط هذا الحدث؟ ",
+      "displayOrder": "العرض"
+
+    },
+    "Results": {
+      "selectGroup": "اختر مجموعة",
+      "selectEvent": " حدد الحدث",
+
+      "selectMatch": "  اختر المباريات",
+      "groups": "مجموعات",
+      "matchs": "المباريات",
+      "match": "المباريات",
+      "date": "تاريخ",
+      "event": "مسابقات",
+      "categorie": "التصنيف",
+      "coefficient": "درجة",
+      "results": "نتائج",
+      "send": "إرسال",
+      "matchsResults": " نتائج المباريات "
+    },
+    "Matchs": {
+      "chooseCategory": "اختر الفئة",
+      "chooseEvent": "اختر حدث",
+      "UpdateDateMatch": "تحديث تاريخ المباراة",
+      "createMatch": "خلق المباراة",
+      "addMatch": "أضف المباراة"
+    },
+    "Equipes": {
+      "createNewEquipes": "أنشئ فريقًا جديدًا",
+      "equipeName": "اسم الفريق",
+      "Country": "دولة",
+      "icon": "أيقونة"
+    },
+    "commercial":{
+      "settings":"إعدادات",
+      "cashoutPartner": "المصروفات",
+      "addCommercial": "إضافة مندوب مبيعات",
+      "create": "خلق",
+      "update":"تحديث",
+      "settingsUsers":"إعدادات دفوعات المستخدمين",
+      "save": "حفظ",
+      "firstName": "الاسم",
+       "mtCachout" : "مبلغ السحب",
+       "phone": "هاتف",
+       "validate": "الحالة",
+       "txCommison": "ضريبة العمولة"
+      
+    }
+  },
+  "employee": {
+    "Ranking": {
+      "rankUsers": "مرتبة اللاعبين",
+      "points": "نقاط",
+      "difference": "فرق",
+      "pointsPronostics": " نقاط التنبؤات",
+      "pointsQualification": "نقاط التأهل",
+      "totalPoints": "التنبؤات مجموع النقاط"
+    },
+    "Pronostics": {
+      "points": "نقاط",
+      "result": "نتيجة",
+      "notYet": "ليس بعد",
+      "back": "إلى الوراء",
+      "useJoker": "استخدم الجوكر الخاص بك",
+      "cancel": "نعم",
+      "detailsSuperPronostic": ".التنبؤ الفائق يمنحك إمكانية التنبؤ بعد 90 دقيقة من بدء المباراة",
+      "detailsForgotSave": "يمنحك  الفرصة لعمل توقع قبل ساعة واحدة من بدء المباراة.",
+      "detailsDoubleScore": " نسيت' يمنحك  نتيجة مضاعفة إمكانية تكرار نتيجة التنبؤ مرتين '     .",
+      "validOnce": "هذا الخيار صالح مرة واحدة فقط لكل حدث!",
+      "pronosticsWithSuper": "Pronostic with joker Super",
+      "pronosticsWithForgotSave": "التنبؤ مع جوكر نسيت",
+      "validateAction": "تحقق من صحة عملك!",
+      "ValidationTextSuper": "هل أنت متأكد من أنك تستخدم هذا الخيار ' التنبؤ الفائق ' لتوقع هذه المباراة؟      ",
+      "ValidationTextForgot": "هل أنت متأكد من أنك تستخدم هذا الخيار 'نسيت' لتوقع هذه المباراة؟      ",
+      "quit": "Quit",
+      "availability": "متاح حتى",
+      "noJoker": "لا يوجد جوكر متاح",
+      "update": "تحديث",
+      "updateWithSuper": "   تحديث مع"   ,
+      "useDoubleJoker": "Use double Score Joker",
+      "ValidationDoubleScore": "هل أنت متأكد من أنك تستخدم هذا الخيار ضعف النتيجة لتوقع هذه المباراة؟      ",
+      "doubleJokerUsed": "لقد استخدمت جوكر مزدوج النتيجة في هذه المباراة.      ",
+      "unusedDoubleJokerText": "هل أنت متأكد من عدم استخدام 'ضعف جوكر' في هذه المباراة؟      ",
+      "confirmAction": "تأكيد",
+      "ValidationTextDouble": "هل أنت متأكد من أنك تستخدم هذا الخيار ضعف النتيجة لتوقع هذه المباراة؟      ",
+      "isUsed":"يستخدم في هذه المباراة.      ",
+      "validOnceTwo":"هذه الخيارات صالحة مرة واحدة فقط لكل حدث!      ",
+      "ValidationTextForgotAndDouble":"هل أنت متأكد من أنك تستخدم هذا الخيار' ضعف & نسيت' للتنبؤ بهذه المباراة؟      ",
+      "ValidationTextForgotAndSuper": "هل أنت متأكد من أنك تستخدم هذا الخيار  'سوبر مزدوجة'  لتوقع هذه المباراة؟      "
+    },
+    "Qualification": {
+      "winningTeamFor": "MY WINNING TEAM FOR THE",
+      "FifaWorldCup": "FIFA World Cup Qatar 2022",
+      "8Finals": "1/8 Finals",
+      "quarterFinals": "Quarter Finals",
+      "semiFinals": "Semi Finals",
+      "semiFinal1": "Semi Final 1",
+      "semiFinal2": "Semi Final 2",
+      "final": "Final",
+      "champion": "Champion",
+      "send": "Send",
+      "quarterFinal1": "Quarter Final 1",
+      "quarterFinal2": "Quarter Final 2",
+      "quarterFinal3": "Quarter Final 3",
+      "quarterFinal4": "Quarter Final 4"
+    },
+    "Matchs": {
+      "jokerAvailable": " is still available",
+      "jokerUsed":" is used in"
+    }
+  },
+  "Profile": {
+    "profileInformation": "Profile Information",
+    "socialReason": "Social reason",
+    "email": "Email",
+    "phone": "Phone",
+    "changePassword": "Change password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "send": "Send",
+    "employees": "Employees",
+    "logout": "خروج",
+    "search": "Search..."
+  },
+  "client": {
+    "Home": {
+      "home": "الصفحة الرئيسية",
+      "products": "منتجات",
+      "pronostics": "تنبؤ",
+      "fantasy": "خيال",
+      "rules": "قواعد",
+      "news": "أخبار",
+      "demo": "عرض",
+      "signUp": "تسجيل",
+      "signIn": "تسجيل الدخول",
+      "chooseOffer": "اختر عرض الاشتراك الخاص بك      ",
+      "month": "شهر",
+      "subscribe": "الإشتراك",
+      "application": "تطبيق",
+      "applicationLabel": "تطبيق Wind Pronostics متاح قريبًا لنظامي التشغيل Android و iOS      ",
+      "applicationLabelDetails": "سيعطي تطبيق 'تنبؤات' ما يصل إلى 10 تنبؤات يوميًا عن كرة القدم والتنس وكرة السلة ...      ",
+      "downloadOn": " تحميل",
+      "download": "تحميل",
+      "newsSectionLabel": "اكتشف",
+      "about": "it is the union of several professional tipsters who combine their expertise (football, tennis, basketball, volleyball, handball, esport, baseball...) to deliver their best predictions daily in their sport.",
+      "soon": "Soon"
+    },
+    "login": {
+      "login": "تسجيل الدخول",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "register": "تسجيل",
+      "forgotPassword": "نسيت رقمك السري ؟",
+      "socialReason": "اسم",
+      "phoneNumber": "رقم الهاتف",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "numberOfEmployees": "عدد الموظفين",
+      "REQUIRED_PASSWORD": "كلمة المرور مطلوبة",
+      "REQUIRED_SOCIALREASON": "اسم الشركة مطلوب",
+      "REQUIRED_EMAIL": "البريد الالكتروني مطلوب      ",
+      "ERROR_REGEX_EMAIL": "يجب ان يكون البريد الاكتروني صحيح      ",
+      "REQUIRED_PHONE": "رقم الهاتف مطلوب",
+      "ERROR_PHONE_VALIDATION": "رقم الهاتف غير صحيح",
+      "ERROR_REGEX_PASSWORD": "Must include at least 1 upper and lower letter, 1 number and special character",
+      "CONFIRM_PASSWORD": "You must confirm your password",
+      "REGEX_CONFIRM_PASSWORD": "Password and confirmation do not match",
+      "REQUIRED_EMPLOYEENUMBER": "Number of employees is required"
+    },
+    "gameRules": {
+      "title": "Help with Wind pronostics: Our complete guide",
+      "subTitle": "Rules of the game - Everything to make a good prediction!",
+      "label": "Find in our guide everything you need to know to make a good prediction on the different sporting events. You will find everything you need to win!",
+      "example": "Example",
+      "doublePoints": "Don't miss this opportunity and earn x coefficient points!!"
+    },
+    "popUpDraw": {
+      "A1": "Select the first of the Group A ",
+      "A2": "Select the second of the Group A ",
+      "B1": "Select the first of the Group B ",
+      "B2": "Select the second of the Group B ",
+      "C1": "Select the first of the Group C ",
+      "C2": "Select the second of the Group C",
+      "D1": "Select the first of the Group D ",
+      "D2": "Select the second of the Group D ",
+      "E1": "Select the first of the Group E ",
+      "E2": "Select the second of the Group E ",
+      "F1": "Select the first of the Group F ",
+      "F2": "Select the second of the Group F ",
+      "G1": "Select the first of the Group G ",
+      "G2": "Select the second of the Group G ",
+      "H1": "Select the first of the Group H ",
+      "H2": "Select the second of the Group H "
+    }
+  }
+}
+
+

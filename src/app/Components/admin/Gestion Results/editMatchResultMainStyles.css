@@ -1,0 +1,11 @@
+@media screen and (max-width: 1100px) {
+  .laptop-display-update-matchResult {
+      display: none;
+  }
+}
+
+@media screen and (min-width: 1100px) {
+  .mobile-display-update-matchResult {
+      display: none;
+  }
+}

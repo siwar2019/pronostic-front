@@ -1,0 +1,14 @@
+@media screen and (max-width: 1100px) {
+    .laptop-display-game {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .mobile-display-game {
+        display: none;
+    }
+}
+
+
+
